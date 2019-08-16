@@ -13,7 +13,7 @@ pip install -r requirements.txt
   * Klicke auf [Enable The GMAIL API](https://developers.google.com/gmail/api/quickstart/python) und "Download Client Config"
   * In der Gmail Inbox [mail.google.com](https://mail.google.com/) kreiere ein neues "Label".
   * Unter Einstellungen (oben rechts), gehe zu "Filter & blockierte Adressen "Neuen Filter erstellen".
-  * Als Betreff: *Forward SMS message from number [+41DEINETELLNR] (sender - Energy (No contact specified))*
+  * Als Betreff: *Forward SMS message from number [+41DEINETELLNR] (sender - Energy (No contact specified))* auf Deutsch *SMS-Nachricht von Nummer weiterleiten (sender -Energy (Kein Kontakt angegeben))*
   * Enthält die Wörter: *Dein Code für game.energy.ch*
   * Filter erstellen und auf das neu erstellte Label anwenden.
 ### APP Herunterladen PlayStore
